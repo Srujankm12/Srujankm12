@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **flutter,python**
 
-- 👯 I’m looking to collaborate on **Online shopping cart**
+- 👯 I’m looking to collaborate on **Intresting Application**
 
 - 📫 How to reach me **srujankm12@gmail.com**
 
