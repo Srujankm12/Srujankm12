@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srujan K M</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 
-- 🌱 I’m currently learning **flutter,python**
+- 🌱 I’m currently learning **flutter,Go**
 
 - 👯 I’m looking to collaborate on **Intresting Application**
 
