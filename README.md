@@ -12,7 +12,7 @@
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/68ba38fe-129a-4d85-be33-62eb4ba50c05" width="100%" alt="marginline"/>
 
----
+----
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300px" alt="Coding gif">
 
