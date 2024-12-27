@@ -1,3 +1,4 @@
+<img src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af" alt="Srujankm12" />
 # 💫 About Me:
 🔭 I’m currently working on Golang <br>👯 I’m looking to collaborate on Any real world application<br>🤝 I’m looking for help with upcomming projects<br>🌱 I’m currently learning Go,Flutter<br>💬 Ask me about Flutter <br>⚡ Fun fact I am
 
