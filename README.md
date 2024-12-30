@@ -79,5 +79,4 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Srujankm12&icon=0&color=6" alt="Profile Views"/>
-</p>
+
