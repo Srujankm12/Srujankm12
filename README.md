@@ -34,7 +34,7 @@
   <a href="https://linkedin.com/in/srujan-km-12s" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://jq0koz1duxlqps78.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
