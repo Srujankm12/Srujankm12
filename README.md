@@ -44,24 +44,19 @@ Right now I'm a contributor at [Dunea AI](https://dunea.ai), working on Dunea Co
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <img src="https://dunea.ai/dunea-mark.svg" width="28" alt=""/>
-      <h3>Dunea</h3>
-      <p>Describe what you want and Dunea builds the frontend, API, database and logins, then puts it live on your own domain with SSL.</p>
-      <p><a href="https://dunea.ai"><b>dunea.ai</b></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://dunea.ai/dunea-mark.svg" width="28" alt=""/>
-      <h3>Dunea Code</h3>
-      <p>A desktop app for running many AI coding agents at once. Each task gets its own git worktree, and every diff, approval and question lands in one queue. macOS (signed and notarized), Windows and Linux.</p>
-      <p><a href="https://desktop.dunea.ai"><b>desktop.dunea.ai</b></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://dunea.ai/dunea-mark.svg" width="28" alt=""/>
-      <h3>Dunea Work</h3>
-      <p>An AI coworker that works inside your folders. It researches with sources, builds spreadsheets, and writes docs and decks, and you can review or undo every change it makes.</p>
-      <p><a href="https://desktop.dunea.ai/#work"><b>desktop.dunea.ai/#work</b></a></p>
-    </td>
+    <td width="33%" align="center"><img src="https://dunea.ai/dunea-mark.svg" width="34" alt=""/><br/><b>Dunea</b></td>
+    <td width="33%" align="center"><img src="https://dunea.ai/dunea-mark.svg" width="34" alt=""/><br/><b>Dunea Code</b></td>
+    <td width="33%" align="center"><img src="https://dunea.ai/dunea-mark.svg" width="34" alt=""/><br/><b>Dunea Work</b></td>
+  </tr>
+  <tr>
+    <td valign="top">Describe what you want and Dunea builds the frontend, API, database and logins, then puts the site live on your own domain.</td>
+    <td valign="top">A desktop app for running many AI coding agents at once, each in its own git worktree, with every diff and approval in one queue.</td>
+    <td valign="top">An AI coworker that works inside your folders: research with sources, spreadsheets, docs and decks, every change undoable.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://dunea.ai"><b>dunea.ai</b></a></td>
+    <td align="center"><a href="https://desktop.dunea.ai"><b>desktop.dunea.ai</b></a></td>
+    <td align="center"><a href="https://desktop.dunea.ai/#work"><b>desktop.dunea.ai/#work</b></a></td>
   </tr>
 </table>
 
