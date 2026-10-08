@@ -22,11 +22,12 @@
 
 I'm a software engineer and I build SaaS products from start to finish: the backend, the database, the web, desktop and mobile apps, the AI features, and the CI/CD that ships them. Most of my time goes into AI tooling, multi-tenant platforms and the infrastructure behind them.
 
-Right now I'm a contributor at [Dunea AI](https://dunea.ai), working on Dunea Code and Dunea Work.
+Right now I'm a contributor at [Dunea AI](https://dunea.ai), working on Dunea Code and Dunea Work, and I'm the co-founder of [Levion Studio](https://www.levionstudio.com), a digital agency.
 
 <table>
   <tr><td><b>Role</b></td><td>Software Engineer, SaaS and AI products</td></tr>
   <tr><td><b>Currently</b></td><td>Contributor at <a href="https://dunea.ai">Dunea AI</a></td></tr>
+  <tr><td><b>Co-founder</b></td><td><a href="https://www.levionstudio.com">Levion Studio</a>, digital agency</td></tr>
   <tr><td><b>Focus</b></td><td>AI agents, developer tools, SaaS platforms</td></tr>
   <tr><td><b>Platforms</b></td><td>macOS, Windows, Linux, web, iOS, Android</td></tr>
   <tr><td><b>Reach me</b></td><td><a href="https://linkedin.com/in/srujan-km-12s">LinkedIn</a> · <a href="https://srujan-km.vercel.app/">Portfolio</a></td></tr>
@@ -57,6 +58,32 @@ Right now I'm a contributor at [Dunea AI](https://dunea.ai), working on Dunea Co
     <td align="center"><a href="https://dunea.ai"><b>dunea.ai</b></a></td>
     <td align="center"><a href="https://desktop.dunea.ai"><b>desktop.dunea.ai</b></a></td>
     <td align="center"><a href="https://desktop.dunea.ai/#work"><b>desktop.dunea.ai/#work</b></a></td>
+  </tr>
+</table>
+
+## Levion Studio
+
+<p>
+  <a href="https://www.levionstudio.com"><img src="https://www.levionstudio.com/icon.svg" width="44" align="left" alt="Levion Studio logo"/></a>
+  I co-founded <a href="https://www.levionstudio.com"><b>Levion Studio</b></a>, a digital agency that helps brands grow. We put software, marketing, e-commerce and AI automation under one roof, so a client gets the product and the growth behind it from one team.
+</p>
+<br clear="left"/>
+
+<table>
+  <tr>
+    <td width="25%" align="center"><b>Software Development</b></td>
+    <td width="25%" align="center"><b>Performance Marketing</b></td>
+    <td width="25%" align="center"><b>Social Media</b></td>
+    <td width="25%" align="center"><b>E-Commerce &amp; Shopify</b></td>
+  </tr>
+  <tr>
+    <td valign="top">Web and mobile apps, custom software, and AI automation for email, WhatsApp and CRM workflows.</td>
+    <td valign="top">Paid campaigns built and tuned around measurable growth, not vanity metrics.</td>
+    <td valign="top">Content and channel management that keeps a brand visible and consistent.</td>
+    <td valign="top">Shopify stores and e-commerce builds set up to convert and scale.</td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center"><a href="https://www.levionstudio.com"><b>levionstudio.com</b></a></td>
   </tr>
 </table>
 
