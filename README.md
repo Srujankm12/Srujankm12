@@ -36,7 +36,7 @@ Right now I'm a contributor at [Dunea AI](https://dunea.ai), working on Dunea Co
 ## Dunea AI
 
 <p>
-  <a href="https://dunea.ai"><img src="https://dunea.ai/dunea-mark.svg" width="44" align="left" alt="Dunea logo"/></a>
+  <a href="https://dunea.ai"><img src="assets/dunea-logo.png" width="44" align="left" alt="Dunea logo"/></a>
   I'm a contributor at <a href="https://dunea.ai"><b>Dunea AI</b></a>, where we build AI products that take you from an idea to working software: a website builder that ships full-stack sites from one prompt, and desktop apps for working alongside AI agents.
 </p>
 <br clear="left"/>
@@ -45,9 +45,9 @@ Right now I'm a contributor at [Dunea AI](https://dunea.ai), working on Dunea Co
 
 <table>
   <tr>
-    <td width="33%" align="center"><img src="https://dunea.ai/dunea-mark.svg" width="34" alt=""/><br/><b>Dunea</b></td>
-    <td width="33%" align="center"><img src="https://dunea.ai/dunea-mark.svg" width="34" alt=""/><br/><b>Dunea Code</b></td>
-    <td width="33%" align="center"><img src="https://dunea.ai/dunea-mark.svg" width="34" alt=""/><br/><b>Dunea Work</b></td>
+    <td width="33%" align="center"><img src="assets/dunea-logo.png" width="34" alt=""/><br/><b>Dunea</b></td>
+    <td width="33%" align="center"><img src="assets/dunea-logo.png" width="34" alt=""/><br/><b>Dunea Code</b></td>
+    <td width="33%" align="center"><img src="assets/dunea-logo.png" width="34" alt=""/><br/><b>Dunea Work</b></td>
   </tr>
   <tr>
     <td valign="top">Describe what you want and Dunea builds the frontend, API, database and logins, then puts the site live on your own domain.</td>
