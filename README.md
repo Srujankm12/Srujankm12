@@ -64,7 +64,7 @@ Right now I'm a contributor at [Dunea AI](https://dunea.ai), working on Dunea Co
 ## Levion Studio
 
 <p>
-  <a href="https://www.levionstudio.com"><img src="https://www.levionstudio.com/icon.svg" width="44" align="left" alt="Levion Studio logo"/></a>
+  <a href="https://www.levionstudio.com"><img src="assets/levion-studio-logo.png" width="72" align="left" alt="Levion Studio logo"/></a>
   I co-founded <a href="https://www.levionstudio.com"><b>Levion Studio</b></a>, a digital agency that helps brands grow. We put software, marketing, e-commerce and AI automation under one roof, so a client gets the product and the growth behind it from one team.
 </p>
 <br clear="left"/>
@@ -83,7 +83,7 @@ Right now I'm a contributor at [Dunea AI](https://dunea.ai), working on Dunea Co
     <td valign="top">Shopify stores and e-commerce builds set up to convert and scale.</td>
   </tr>
   <tr>
-    <td colspan="4" align="center"><a href="https://www.levionstudio.com"><b>levionstudio.com</b></a></td>
+    <td colspan="4" align="center"><a href="https://www.levionstudio.com"><b>levionstudio.com</b></a> · <a href="https://www.instagram.com/levionstudi0/"><b>Instagram</b></a></td>
   </tr>
 </table>
 
