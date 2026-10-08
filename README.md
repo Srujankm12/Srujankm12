@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/srujan-km-12s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://jq0koz1duxlqps78.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://srujan-km.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://github.com/Srujankm12?tab=followers"><img src="https://img.shields.io/github/followers/Srujankm12?style=for-the-badge&logo=github&color=22D3EE&labelColor=0d1117" alt="Followers"/></a>
   <img src="https://komarev.com/ghpvc/?username=Srujankm12&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
@@ -29,7 +29,7 @@ Right now I'm a contributor at [Dunea AI](https://dunea.ai), working on Dunea Co
   <tr><td><b>Currently</b></td><td>Contributor at <a href="https://dunea.ai">Dunea AI</a></td></tr>
   <tr><td><b>Focus</b></td><td>AI agents, developer tools, SaaS platforms</td></tr>
   <tr><td><b>Platforms</b></td><td>macOS, Windows, Linux, web, iOS, Android</td></tr>
-  <tr><td><b>Reach me</b></td><td><a href="https://linkedin.com/in/srujan-km-12s">LinkedIn</a></td></tr>
+  <tr><td><b>Reach me</b></td><td><a href="https://linkedin.com/in/srujan-km-12s">LinkedIn</a> · <a href="https://srujan-km.vercel.app/">Portfolio</a></td></tr>
 </table>
 
 ## Dunea AI
