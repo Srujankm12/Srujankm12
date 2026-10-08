@@ -148,7 +148,7 @@ Right now I'm a contributor at [Dunea AI](https://dunea.ai), working on Dunea Co
 ## GitHub stats
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srujankm12&theme=tokyonight" alt="Contributions"/>
+  <img width="100%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contributions"/>
 </p>
 
 <p align="center">
@@ -158,12 +158,12 @@ Right now I'm a contributor at [Dunea AI](https://dunea.ai), working on Dunea Co
 ## Insights
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srujankm12&theme=tokyonight" alt="Repos per language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srujankm12&theme=tokyonight" alt="Commits per language"/>
+  <img width="49%" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
+  <img width="49%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Commits per language"/>
 </p>
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Srujankm12&theme=tokyonight" alt="Stats summary"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Srujankm12&theme=tokyonight&utcOffset=5.5" alt="Most productive hours"/>
+  <img width="49%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats summary"/>
+  <img width="49%" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Most productive hours"/>
 </p>
 
 ## Trophies
