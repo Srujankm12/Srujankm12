@@ -34,17 +34,33 @@ Right now I'm a contributor at [Dunea AI](https://dunea.ai), working on Dunea Co
 
 ## Dunea AI
 
+<p>
+  <a href="https://dunea.ai"><img src="https://dunea.ai/dunea-mark.svg" width="44" align="left" alt="Dunea logo"/></a>
+  I'm a contributor at <a href="https://dunea.ai"><b>Dunea AI</b></a>, where we build AI products that take you from an idea to working software: a website builder that ships full-stack sites from one prompt, and desktop apps for working alongside AI agents.
+</p>
+<br clear="left"/>
+
+<a href="https://dunea.ai"><img src="https://dunea.ai/opengraph-image" width="100%" alt="Dunea: one prompt, a full-stack site, live"/></a>
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Dunea Code</h3>
-      <p>A desktop app for running many AI coding agents at once. Each task gets its own git worktree, and every diff, approval and question lands in one queue. Available for macOS (signed and notarized), Windows and Linux.</p>
-      <a href="https://desktop.dunea.ai">desktop.dunea.ai</a>
+    <td width="33%" valign="top">
+      <img src="https://dunea.ai/dunea-mark.svg" width="28" alt=""/>
+      <h3>Dunea</h3>
+      <p>Describe what you want and Dunea builds the frontend, API, database and logins, then puts it live on your own domain with SSL.</p>
+      <p><a href="https://dunea.ai"><b>dunea.ai</b></a></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <img src="https://dunea.ai/dunea-mark.svg" width="28" alt=""/>
+      <h3>Dunea Code</h3>
+      <p>A desktop app for running many AI coding agents at once. Each task gets its own git worktree, and every diff, approval and question lands in one queue. macOS (signed and notarized), Windows and Linux.</p>
+      <p><a href="https://desktop.dunea.ai"><b>desktop.dunea.ai</b></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://dunea.ai/dunea-mark.svg" width="28" alt=""/>
       <h3>Dunea Work</h3>
       <p>An AI coworker that works inside your folders. It researches with sources, builds spreadsheets, and writes docs and decks, and you can review or undo every change it makes.</p>
-      <a href="https://desktop.dunea.ai/#work">desktop.dunea.ai/#work</a>
+      <p><a href="https://desktop.dunea.ai/#work"><b>desktop.dunea.ai/#work</b></a></p>
     </td>
   </tr>
 </table>
